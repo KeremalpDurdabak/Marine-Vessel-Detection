@@ -5,10 +5,11 @@ This repository provides a marine vessel detection system using the state-of-the
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KeremalpDurdabak/Marine-Vessel-Detection.git
 
 2. **Run the setup and training script**:
-    ```chmod +x run.sh
+    ```bash
+    chmod +x run.sh
     ./run.sh
 
 ## Summary
