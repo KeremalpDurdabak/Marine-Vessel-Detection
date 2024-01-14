@@ -8,7 +8,7 @@ This repository provides a marine vessel detection system using the state-of-the
    git clone <repository-url>
 
 2. **Run the setup and training script**:
-    chmod +x run.sh
+    ```chmod +x run.sh
     ./run.sh
 
 ## Summary
